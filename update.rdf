@@ -22,7 +22,5 @@
         </li>
       </Seq>
     </em:updates>
-    <em:version>2</em:version>
-    <em:updateLink>https://rawgit.com/vasilicamihasca/updatetest/master/icaaddontest2.xpi</em:updateLink>
   </Description>
 </RDF>
