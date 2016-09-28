@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "testwebextension",
+  "browser_action": {
+    "default_popup": "popup.html"
+  },
+  "version": "1.0",
+  "applications": {
+    "gecko": {
+      "id": "testwebextension@mozilla.com",
+	   "update_url": "https://example.com/updates.json"
+    }
+  }
+}
