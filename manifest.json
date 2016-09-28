@@ -8,7 +8,7 @@
   "applications": {
     "gecko": {
       "id": "testwebextension@mozilla.com",
-	   "update_url": "https://example.com/updates.json"
+	   "update_url": "https://rawgit.com/vasilicamihasca/updatetest/master/testwebextensionupdate.xpi"
     }
   }
 }
