@@ -1,5 +1,5 @@
 {
- "testwebextensionupdate@mozilla.com"{
+ "testwebextensionupdate@mozilla.com": {
      "manifest_version": 2,
      "name": "testwebextension",
      "browser_action": {
