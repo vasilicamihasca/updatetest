@@ -1,10 +1,5 @@
 {
  "testwebextensionupdate@mozilla.com": {
-     "manifest_version": 2,
-     "name": "testwebextension",
-     "browser_action": {
-            "default_popup": "popup.html"
-       },
      "version": "2.0",
      "applications": {
             "gecko": {
