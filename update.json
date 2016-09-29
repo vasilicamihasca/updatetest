@@ -1,14 +1,16 @@
 {
-  "manifest_version": 2,
-  "name": "testwebextension",
-  "browser_action": {
-    "default_popup": "popup.html"
-  },
-  "version": "2.0",
-  "applications": {
-    "gecko": {
-      "id": "testwebextension@mozilla.com",
-	   "update_url": "https://rawgit.com/vasilicamihasca/updatetest/master/testwebextensionupdate.xpi"
+ "testwebextensionupdate@mozilla.com"{
+     "manifest_version": 2,
+     "name": "testwebextension",
+     "browser_action": {
+            "default_popup": "popup.html"
+       },
+     "version": "2.0",
+     "applications": {
+            "gecko": {
+                "id": "testwebextensionupdate@mozilla.com",
+	        "update_url": "https://rawgit.com/vasilicamihasca/updatetest/master/testwebextensionupdate.xpi"
     }
   }
+ }
 }
