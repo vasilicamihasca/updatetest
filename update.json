@@ -1,11 +1,6 @@
 {
  "testwebextensionupdate@mozilla.com": {
      "version": "2.0",
-     "applications": {
-            "gecko": {
-                "id": "testwebextensionupdate@mozilla.com",
-	        "update_url": "https://rawgit.com/vasilicamihasca/updatetest/master/testwebextensionupdate.xpi"
-    }
-  }
+     "update_link": "https://rawgit.com/vasilicamihasca/updatetest/master/testwebextensionupdate.xpi"
  }
 }
